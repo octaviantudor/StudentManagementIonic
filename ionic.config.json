@@ -1,0 +1,7 @@
+{
+  "name": "student-management-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
